@@ -1,1 +1,31 @@
 .vs/
+Portal.Services/obj/Debug/
+Portal.UnitTest/bin/
+Portal.UnitTest/obj/
+Portal.Shared/obj/Debug/
+Portal.Server/obj/Debug/
+Portal.Server/bin/
+Portal.Repositories/obj/Debug/
+Portal.Repositories/bin/
+Portal.Entitys/obj/Debug/
+Portal.Entitys/bin/
+Portal.Client/obj/Debug/
+Portal.Client/obj/Debug/
+Portal.Entitys/obj/
+Portal.Client/obj/Debug/
+ Portal.Client/bin/
+ Portal.Services/bin/
+ Portal.Shared/bin/
+
+
+
+
+
+
+
+
+
+
+
+
+
