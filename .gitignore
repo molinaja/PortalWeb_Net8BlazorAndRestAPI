@@ -1,4 +1,42 @@
+# Archivos de Visual Studio
+.vscode/
 .vs/
+*.user
+*.suo
+
+# Archivos de compilación
+bin/
+obj/
+out/
+
+# Archivos de publicación e instalación
+publish/
+*.publishsettings
+
+# Dependencias de paquetes
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Archivos de bloqueo de dependencia
+*.lock.json
+
+# Archivos generados por compilaciones o empaquetado
+*.log
+*.cache
+*.pdb
+*.exe
+*.dll
+*.swp
+*.tmp
+*.bak
+
+# Configuración de VS Code
+.vscode/
+
+# Configuración de VS Code
 Portal.Services/obj/Debug/
 Portal.UnitTest/bin/
 Portal.UnitTest/obj/
