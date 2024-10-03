@@ -1,0 +1,15 @@
+C:\Users\JuanMolinaVargas\Downloads\molinajaGitRepos\PortalWeb_Net8BlazorAndRestAPI\Portal\Portal.DataAccess\bin\Debug\net8.0\Portal.DataAccess.deps.json
+C:\Users\JuanMolinaVargas\Downloads\molinajaGitRepos\PortalWeb_Net8BlazorAndRestAPI\Portal\Portal.DataAccess\bin\Debug\net8.0\Portal.DataAccess.runtimeconfig.json
+C:\Users\JuanMolinaVargas\Downloads\molinajaGitRepos\PortalWeb_Net8BlazorAndRestAPI\Portal\Portal.DataAccess\bin\Debug\net8.0\Portal.DataAccess.dll
+C:\Users\JuanMolinaVargas\Downloads\molinajaGitRepos\PortalWeb_Net8BlazorAndRestAPI\Portal\Portal.DataAccess\bin\Debug\net8.0\Portal.DataAccess.pdb
+C:\Users\JuanMolinaVargas\Downloads\molinajaGitRepos\PortalWeb_Net8BlazorAndRestAPI\Portal\Portal.DataAccess\obj\Debug\net8.0\Portal.DataAccess.csproj.AssemblyReference.cache
+C:\Users\JuanMolinaVargas\Downloads\molinajaGitRepos\PortalWeb_Net8BlazorAndRestAPI\Portal\Portal.DataAccess\obj\Debug\net8.0\Portal.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanMolinaVargas\Downloads\molinajaGitRepos\PortalWeb_Net8BlazorAndRestAPI\Portal\Portal.DataAccess\obj\Debug\net8.0\Portal.DataAccess.AssemblyInfoInputs.cache
+C:\Users\JuanMolinaVargas\Downloads\molinajaGitRepos\PortalWeb_Net8BlazorAndRestAPI\Portal\Portal.DataAccess\obj\Debug\net8.0\Portal.DataAccess.AssemblyInfo.cs
+C:\Users\JuanMolinaVargas\Downloads\molinajaGitRepos\PortalWeb_Net8BlazorAndRestAPI\Portal\Portal.DataAccess\obj\Debug\net8.0\Portal.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\JuanMolinaVargas\Downloads\molinajaGitRepos\PortalWeb_Net8BlazorAndRestAPI\Portal\Portal.DataAccess\obj\Debug\net8.0\Portal.DataAccess.sourcelink.json
+C:\Users\JuanMolinaVargas\Downloads\molinajaGitRepos\PortalWeb_Net8BlazorAndRestAPI\Portal\Portal.DataAccess\obj\Debug\net8.0\Portal.DataAccess.dll
+C:\Users\JuanMolinaVargas\Downloads\molinajaGitRepos\PortalWeb_Net8BlazorAndRestAPI\Portal\Portal.DataAccess\obj\Debug\net8.0\refint\Portal.DataAccess.dll
+C:\Users\JuanMolinaVargas\Downloads\molinajaGitRepos\PortalWeb_Net8BlazorAndRestAPI\Portal\Portal.DataAccess\obj\Debug\net8.0\Portal.DataAccess.pdb
+C:\Users\JuanMolinaVargas\Downloads\molinajaGitRepos\PortalWeb_Net8BlazorAndRestAPI\Portal\Portal.DataAccess\obj\Debug\net8.0\Portal.DataAccess.genruntimeconfig.cache
+C:\Users\JuanMolinaVargas\Downloads\molinajaGitRepos\PortalWeb_Net8BlazorAndRestAPI\Portal\Portal.DataAccess\obj\Debug\net8.0\ref\Portal.DataAccess.dll
